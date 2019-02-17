@@ -121,7 +121,7 @@ body:before {
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
-  background-image: linear-gradient(to top, rgba(27,33,51,0.749), rgba(27,33,51,0.749)), url('https://images.pexels.com/photos/747964/pexels-photo-747964.jpeg');
+  background-image: linear-gradient(to top, rgba(27,33,51,0.749), rgba(27,33,51,0.749)), url('./hvc.png');
   background-position: 0% 0%, center;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
